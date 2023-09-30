@@ -5,3 +5,6 @@ Kolekce funkcí a kusů kódu v jazyce Python, pro potřeby elektroakustického 
 V podadresáři `Calibration-curves` se nachází Jupyter notebook obsahující funkce pro zpracování kalibračních křivek. Vývoj těchto funkcí byl prováděn primárně pro použití s 2CH FFT analyzátorem
 OpenSoundMeter
 
+## 2. Kalkulačky
+V podadresáři `Calculators` se nachází Jupyter notebook obsahující různé kalkulačky.
+
